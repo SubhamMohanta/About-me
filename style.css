@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,200;6..12,300;6..12,400;6..12,500;6..12,700&display=swap');
+body{ 
+    background-color: rgb(255, 255, 240);
+    font-family: 'Nunito Sans', sans-serif;
+    }
+
+img {
+    width: 250px;
+}
+
+h1{
+    color: orangered
+}
+
